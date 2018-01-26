@@ -2,7 +2,7 @@
 
 Tested with Wildfly 11
 
-##With version 2:
+## With version 2:
 
 
 ```
@@ -20,7 +20,7 @@ Log output:
  [at.ppichl.test.vaadincdi.views.OrderView] (default task-5) enter
  ```
 
-##With version 3:
+## With version 3:
 
 ```
   <dependency>
